@@ -1,0 +1,14 @@
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\bin\Debug\net8.0\TlsClient.exe
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\bin\Debug\net8.0\TlsClient.deps.json
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\bin\Debug\net8.0\TlsClient.runtimeconfig.json
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\bin\Debug\net8.0\TlsClient.dll
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\bin\Debug\net8.0\TlsClient.pdb
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.AssemblyInfoInputs.cache
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.AssemblyInfo.cs
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.dll
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\refint\TlsClient.dll
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.pdb
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\TlsClient.genruntimeconfig.cache
+C:\Users\Користувач\Desktop\КСУБГ\Lab6\TlsClient\obj\Debug\net8.0\ref\TlsClient.dll

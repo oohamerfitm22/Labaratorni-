@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TlsServer\\TlsServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TlsClient\\TlsClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
