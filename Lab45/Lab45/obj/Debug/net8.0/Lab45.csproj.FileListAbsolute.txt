@@ -1,0 +1,14 @@
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\bin\Debug\net8.0\Lab45.exe
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\bin\Debug\net8.0\Lab45.deps.json
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\bin\Debug\net8.0\Lab45.runtimeconfig.json
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\bin\Debug\net8.0\Lab45.dll
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\bin\Debug\net8.0\Lab45.pdb
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.AssemblyInfoInputs.cache
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.AssemblyInfo.cs
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.dll
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\refint\Lab45.dll
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.pdb
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\Lab45.genruntimeconfig.cache
+C:\Users\Користувач\Desktop\КСУБГ\Lab45\Lab45\obj\Debug\net8.0\ref\Lab45.dll
