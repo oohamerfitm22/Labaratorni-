@@ -1,0 +1,5 @@
+﻿Algorithm,Operation,Time_ms,OutputSize_bytes
+AES-GCM,Encrypt,0,10391
+AES-GCM,Decrypt,0,10363
+RSA,Encrypt,0,256
+RSA,Decrypt,0,190

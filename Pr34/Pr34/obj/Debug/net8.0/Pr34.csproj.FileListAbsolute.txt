@@ -1,0 +1,14 @@
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\bin\Debug\net8.0\Pr34.exe
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\bin\Debug\net8.0\Pr34.deps.json
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\bin\Debug\net8.0\Pr34.runtimeconfig.json
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\bin\Debug\net8.0\Pr34.dll
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\bin\Debug\net8.0\Pr34.pdb
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.AssemblyInfoInputs.cache
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.AssemblyInfo.cs
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.dll
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\refint\Pr34.dll
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.pdb
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\Pr34.genruntimeconfig.cache
+C:\Users\Користувач\Desktop\КСУБГ\Pr34\Pr34\obj\Debug\net8.0\ref\Pr34.dll
