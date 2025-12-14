@@ -1,0 +1,27 @@
+﻿Converting null literal or possible null value to non-nullable type.
+Converting null literal or possible null value to non-nullable type.
+Converting null literal or possible null value to non-nullable type.
+Converting null literal or possible null value to non-nullable type.
+Converting null literal or possible null value to non-nullable type.
+Converting null literal or possible null value to non-nullable type.
+Member 'HashPassword' does not access instance data and can be marked as static
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.Write(string? value)'. Retrieve the following string(s) from a resource table instead: "Choice: ".
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: " --- Динамічний аналіз: поточні користувачі ---".
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "-------------------------------------------- ".
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "1. Register".
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "2. Login".
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "3. Exit".
+Method 'void Program.Main(string[] args)' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "Invalid choice!".
+Method 'void UserService.Login()' passes a literal string as parameter 'value' of a call to 'void Console.Write(string? value)'. Retrieve the following string(s) from a resource table instead: "Enter password: ".
+Method 'void UserService.Login()' passes a literal string as parameter 'value' of a call to 'void Console.Write(string? value)'. Retrieve the following string(s) from a resource table instead: "Enter username: ".
+Method 'void UserService.Login()' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "Login failed!".
+Method 'void UserService.Login()' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "Login successful!".
+Method 'void UserService.Register()' passes a literal string as parameter 'value' of a call to 'void Console.Write(string? value)'. Retrieve the following string(s) from a resource table instead: "Enter password: ".
+Method 'void UserService.Register()' passes a literal string as parameter 'value' of a call to 'void Console.Write(string? value)'. Retrieve the following string(s) from a resource table instead: "Enter username: ".
+Method 'void UserService.Register()' passes a literal string as parameter 'value' of a call to 'void Console.WriteLine(string? value)'. Retrieve the following string(s) from a resource table instead: "User registered successfully!".
+Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.
+Non-nullable property 'Username' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.
+Parameter args of method Main is never used. Remove the parameter or use it in the method body.
+Possible null reference argument for parameter 'password' in 'string UserService.HashPassword(string password)'.
+Possible null reference argument for parameter 'password' in 'string UserService.HashPassword(string password)'.
+Possible null reference assignment.
