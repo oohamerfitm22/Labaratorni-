@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "action": "deny",
+    "src_ip_cidr": "0.0.0.0/0",
+    "dst_ip_cidr": "127.0.0.1/32",
+    "src_port": "*",
+    "dst_port": 8080,
+    "proto": "TCP",
+    "priority": 10,
+    "enabled": true
+  },
+  {
+    "action": "allow",
+    "src_ip_cidr": "0.0.0.0/0",
+    "dst_ip_cidr": "127.0.0.1/32",
+    "src_port": "*",
+    "dst_port": 8080,
+    "proto": "TCP",
+    "priority": 1,
+    "enabled": true,
+    "id": 2
+  }
+]
